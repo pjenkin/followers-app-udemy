@@ -1,6 +1,14 @@
 <<<<<<< HEAD
 # followers-app-udemy
+
+## GitHub Practice
+
 Udemy **Compleat Angler** course section 12 - deployment
+
+*This bit was added in a feature branch*
+
+No point going to [www.guidebookplus](http://www.guidebookplus.com) any more alas.
+
 
 # DeployDemo
 
